@@ -1,4 +1,4 @@
-- 👋 Hi, I’m the creater of RXINC or RED CROSS RECORDZ INC. @MX1RXINC
+- 👋 Hi, I’m the creater of RXINC CORP> @MX1RXINC
 - 👀 I’m interested in ... learning more about the C++ programing language
 - 🌱 I’m currently learning ... Unreal Engine 5 and the newest C++ libraries.
 - 💞️ I’m looking to collaborate on ... a new video game designed specifically on Unreal engine 5.
